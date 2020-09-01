@@ -34,7 +34,7 @@ import scrapy
 
 
 class QuotesSpider(scrapy.Spider): #inherited
-    name = 'crawler1' #name of spider
+    name = 'gitHubCrawler' #name of spider
     # start_urls = [
     #     'https://mohsinweb.herokuapp.com/quotes'
     # ]
